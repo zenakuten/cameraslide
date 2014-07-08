@@ -4,7 +4,7 @@
 
 Camera slider used for focus stacking and time lapse photography.  It interprets g-code and
 accepts an M240 command to take a photograph remotely using an infrared LED.  The remote control 
-is compatible with most Cannon cameras.
+is compatible with most Canon cameras.
 
 
 #Usage
